@@ -1,16 +1,29 @@
-## Hi there 👋
+# Martin Gusin
 
-<!--
-**MartinGu04/MartinGu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building digital products, systems & experiences.**  
+I turn real problems into thoughtful, working products.
 
-Here are some ideas to get you started:
+[**Explore MARTIN.G → martin-g.dev**](https://martin-g.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+**MARTIN.G**  
+Personal portfolio and product showcase across digital products, systems and experiences.
+
+**ON**  
+A boutique dating-retreat brand and digital experience, from identity and visual direction to the live product.
+
+**Deckify**  
+A Spotify control experience focused on making setup, playback and everyday actions feel simple and intentional.
+
+## What I build
+
+Product experiences · Web applications · Internal systems · Automation · Brand-led digital experiences
+
+## Stack
+
+TypeScript · React · Next.js · Supabase · Vercel · Rust / Tauri · Python
+
+---
+
+**Make it real.**
