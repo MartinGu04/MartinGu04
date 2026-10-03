@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/martin-g-banner.png" alt="MARTIN.G" width="100%" />
+</p>
+
 # Martin Gusin
 
 **Building digital products, systems & experiences.**  
