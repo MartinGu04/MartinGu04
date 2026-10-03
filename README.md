@@ -2,10 +2,7 @@
   <img src="./assets/martin-g-banner.png" alt="MARTIN.G" width="100%" />
 </p>
 
-# Martin Gusin
-
-**Building digital products, systems & experiences.**  
-I turn real problems into thoughtful, working products.
+I build digital products, systems and experiences around real problems.
 
 [**Explore MARTIN.G → martin-g.dev**](https://martin-g.dev)
 
@@ -27,7 +24,3 @@ Product experiences · Web applications · Internal systems · Automation · Bra
 ## Stack
 
 TypeScript · React · Next.js · Supabase · Vercel · Rust / Tauri · Python
-
----
-
-**Make it real.**
